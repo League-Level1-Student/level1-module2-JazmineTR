@@ -4,12 +4,6 @@ package _03_tea_maker;
  *    Level 1
  */
 
-public class TeaMaker {
-
-	/* Figure out how to make a cup of tea in this runner class, using the other classes below */
-
-}
-
 class TeaBag {
 
 	public final static String GREEN = "Green";
